@@ -1,4 +1,5 @@
 <?php
+//functions changed too poo loo
 /**
  * Twenty Seventeen functions and definitions
  *
